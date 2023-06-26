@@ -1,4 +1,4 @@
-# Description
+# Nexus-coder
 # 💫 About Me:
 Hello people😁😁<br>I am a computer scientist currently in university pursuing computer science<br>I am a full stack developer of the MERN stack<br>⚡Fun fact  <br>I also do graphic design and i am good in adobe illustrator and adobe photoshop
 
